@@ -1,4 +1,4 @@
-#Devolved Government Popolo Workflow
+# Devolved Government Popolo Workflow
 
 Previously I showed [how to analyse EveryPolitician data in R](https://github.com/ajparsons/everypoliticianR). This repository contains three examples of how to use Python to patch holes in [EveryPolitician data](http://everypolitician.org/) so the same cross-analysis tools can be used on incomplete datasets.
 
@@ -8,7 +8,7 @@ Rather than convert the json-popolo file EveryPolitician provides the data in in
 
 As the end result is three json files - this can be easily be accessed by Python or R analysis libraries. 
 
-##Why use popolo in a research workflow
+## Why use popolo in a research workflow
 
 EveryPolitician publishes information as CSVs, but also as json files using the [popolo format](http://www.popoloproject.com/).
  
@@ -16,22 +16,22 @@ This makes popolo files very useful as a single-structured store of information 
 
 While this is sometimes over-precise, as a basic building block it enables lots of different forms of analysis and is a generally useful way to have raw political data stored - the nuance can be thrown away later in the workflow depending on the question under investigation. 
 
-##Data fixes
+## Data fixes
 
-###Scottish Parliament
+### Scottish Parliament
 
 [scottish_parliament.py](scottish_parliament.py): For the Scottish Assembly, EveryPolitician [covers the entire history](http://everypolitician.org/scotland/parliament/download.html) - but it's missing some birth dates for MSPs. This script downloads the Scottish Parliament data from EveryPolitician and infills the popolo file to infill the missing dates.
 
-###London Assembly
+### London Assembly
 
 [london_assembly.py](london_assembly.py): Creates a popolo file from scatch, given a CSV of membership information and term information. 
 
-###National Assembly for Wales
+### National Assembly for Wales
 
 [welsh_assembly.py](welsh_assembly.py): Creates a new popolo file for the first three terms of the National Assembly for Wales (currently not in EveryPolitician) and then merges that with the [EveryPolitician popolo](http://everypolitician.org/wales/assembly/download.html) to create one file. 
 
 
-##Read-write popolo from Python
+## Read-write popolo from Python
 
 The ability to write back to the file haven't been fed back into the main version of the popolo-python package yet, but if you want to do an exercise like the above you can install the package directly from git:
 
@@ -39,6 +39,6 @@ The ability to write back to the file haven't been fed back into the main versio
 pip install git+https://github.com/ajparsons/everypolitician-popolo-python.git@export_merge_function#egg=everypolitician-popolo
 ```
 
-#Using this data
+# Using this data
 
 This data can then be accessed using the popolo packages for [Python](https://github.com/everypolitician/everypolitician-popolo-python), [Ruby](https://github.com/everypolitician/everypolitician-popolo) and [R](https://github.com/ajparsons/everypoliticianR). 
