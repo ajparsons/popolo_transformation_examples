@@ -1,0 +1,9 @@
+fabric
+unicodecsv
+openpyxl
+xlrd
+xlwt
+everypolitician
+wikipedia
+-e git+https://github.com/ajparsons/everypolitician-popolo-python.git@export_merge_function#egg=everypolitician-popolo
+-e git+https://github.com/ajparsons/useful_inkleby.git@internal#egg=useful_inkleby

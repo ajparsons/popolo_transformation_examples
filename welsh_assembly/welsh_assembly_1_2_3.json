@@ -1,0 +1,2853 @@
+{
+    "areas": [
+        {
+            "id": "9376d713cdad7fc84c25a686d26a83dd2a9de16b9fd3bae22638fa62ce24dbb8", 
+            "name": "Pontypridd", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "192bcf7510cb7a92e0eed6dbeef51776f3ef81c5cc46ddd52bb4379703bb2497", 
+            "name": "Blaenau Gwent", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "9907bce84308a6ef6fc624d3673ab99ee7993c7ab1319f3b9dcb7b24529dc6ee", 
+            "name": "Wrexham", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "96042ef1ef068980bd763b25d2ccc69301bab16e9ca00ae1adc3b1c388b7f1eb", 
+            "name": "Merthyr Tydfil and Rhymney", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "9677fd74dc007c3e62fa31e5c8704f94e9b5aa35e3414ab4e61473a1a694b857", 
+            "name": "Ogmore", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "ccd7b59a79c302e9f34c0665e5d9b87734ec95ffd0f55cd20bc73a1962bdf472", 
+            "name": "Conwy", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "b5df01b617d13b7ded354fc08b71002c581997b3cd5bee912efcc732175c51b9", 
+            "name": "Swansea East", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "dffa3436ebefce5e80e009fdb3ecef58585973b25efe8575d47ad1abf2123a0b", 
+            "name": "Meirionnydd Nant Conwy", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "6c4cea81de1783ffac845911d47fc29bdb0327bcd04f961a7759066b91144347", 
+            "name": "Aberconwy", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "9bedb378e6b713f3f8bfab5f0b56f2786c6a250f7b2f60509ccb330c559406a9", 
+            "name": "Cardiff North", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "a634b23b23cb3e0a908c6de02e597da4c7587cd30cde171cfcca619c314b6894", 
+            "name": "Neath", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "44f55064ec67ab5138a62cbe69a2d26b2883c87559331cf9e4ce79616ef080a1", 
+            "name": "Islwyn", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "eefab83e94be9e2409d3b60ac6f8b93950636e0e0a4988d141546487d172030c", 
+            "name": "Clwyd West", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "84b7d051ae889cfe8047339f67c7bebbbf6fd4b7df94d7ddb66fa1b7e76f01b2", 
+            "name": "Rhondda", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "810457d8598e8a6a33772246d741b7c833e87549ab401976a9bae4b1caefe317", 
+            "name": "Monmouth", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "2b4f0d16adbca41d8b4ba8e9e3b2f5e3d9cf431608eaf7a7e9c4a498ba55d0b2", 
+            "name": "Preseli Pembrokeshire", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "name": "South Wales Central", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "name": "North Wales", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "00efa3378eb18a1f7919300382b034225845bc53ae5385f531b28d3e99de81ac", 
+            "name": "Llanelli", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "33e91259aff60a05cec4ede25e4ff82b0a6725cb840c032e003d65143d68a095", 
+            "name": "Carmarthen West and South Pembrokeshire", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "00cda87c3fd4312d485e2c3dae2d9d6b2ba7465715319404d00705e09518e4bc", 
+            "name": "Aberavon", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "d226204576b7d391e553211f7530c7170ef8e88b8bb113a916d6050c184a5665", 
+            "name": "Arfon", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "f056d9ce64531922a8b32273dd3f1ce64ad7e532cd0fdacbe22c58f2a9ceb16f", 
+            "name": "Gower", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "02479939fdf52f4e1784b21979f4f5f7407410531aa4c30a441b115bfd50766e", 
+            "name": "Ynys Môn", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "1eddd1078140f8e2af60d58e456dad81c65805683e7842f890a05a57bb8a642a", 
+            "name": "Torfaen", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "64bef7521e64c3c75914c1726c417029fed6a5eb7f2c4f7569a1d283ad8fe0d7", 
+            "name": "Clwyd South", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "b870217ee89e1932a1e7e8c5af07c4f791f01f4248cd1356c51131a66ff42b1e", 
+            "name": "Swansea West", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "f428863cf4377c56b35e45527215b700461d7e75632b4fc562a89c8b7dbbe7b1", 
+            "name": "Caernarfon", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "9d87413dd4911c19a705dbaaf3df26f85f8187db5df22fe76ebec4579604596e", 
+            "name": "Dwyfor Meirionnydd", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "d92e775033536aa14f53e4d6c72de2188e1d5cccc88d195e7e81368b313d6d61", 
+            "name": "Newport East", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "1be827c27e488c1fc2eeb52115153187670708d7006519737c9718d59c49673b", 
+            "name": "Ceredigion", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "name": "South Wales West", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "468d3cbb3b8eeaeee74816dc60d58e8dcc56795b012d1a7bd05415333a74d9fd", 
+            "name": "Carmarthen East and Dinefwr", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "50885891dac85f39f704950b3b38493a11acbc44c7385f00b1829d59417a2f05", 
+            "name": "Newport West", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "1415576beceec0b94fe7a8672ec75901b0c5e66c9afad9bd0fff9772235a966a", 
+            "name": "Carmarthen West and Pembrokeshire South", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "name": "Mid and West Wales", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "b8c0c967eb1c7e95166a748dc3523b72cfcb3b8c1ac819abbf826a75a2cc7c1f", 
+            "name": "Brecon and Radnorshire", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "e561e074ee444bbb62ae7c42e2e7299a398d87c3fa6524cea37d290fd9ffb68d", 
+            "name": "Delyn", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "6cf5ade7afdbc243a1ee31d1980b568bdef8e21015d8689a43e915d0ea5b5fac", 
+            "name": "Caerphilly", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "4c07fe104bb9dd0fe6fed3819ad42a34bd9b8f7b23e8fb96b12eb29bbe88e3cb", 
+            "name": "Montgomeryshire", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "name": "South Wales East", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "7b0b21adc0e8bd446b5b461814719f6e66fb8ea6a517a9d2ce9f42199eec9bd2", 
+            "name": "Cardiff West", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "ef51cab1f7b63f80d7d378d6c0616c3286b427a228a2a919a30d15070063f946", 
+            "name": "Vale of Clwyd", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "665f6b447b0abdc91e0c892b4bd0522e7fa215d01dd1ea90783206b8e4f172c5", 
+            "name": "Vale of Glamorgan", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "835e526d9be08a55b9df39623a4fc6f31ae2ab2d1299c49fd83fd28e27ccf496", 
+            "name": "Alyn and Deeside", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "61b19165de09dfe473fe864a2cb07cd932a0358c9cb2e9ed41df78635d7cbf3c", 
+            "name": "Cardiff South and Penarth", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "9fd79a5758586b4f2a9259ea2efa81a5494fd18fddedcd8074361b4fae8dc31d", 
+            "name": "Cardiff Central", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "f6663ca0ac671bb2a58df2a0709f253c354e5cd80237854eadc4f9ef5d218462", 
+            "name": "Bridgend", 
+            "type": "constituency"
+        }, 
+        {
+            "id": "c3f4039c222878ad72bfbae73a2f07a40aa410dc9dcb53734faacc7cdc5d1765", 
+            "name": "Cynon Valley", 
+            "type": "constituency"
+        }
+    ], 
+    "events": [
+        {
+            "classification": "legislative period", 
+            "end_date": "2003-03-30", 
+            "id": "term/1", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "start_date": "1999-05-27"
+        }, 
+        {
+            "classification": "legislative period", 
+            "end_date": "2007-04-06", 
+            "id": "term/2", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "start_date": "2003-05-01"
+        }, 
+        {
+            "classification": "legislative period", 
+            "end_date": "2011-03-31", 
+            "id": "term/3", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "start_date": "2007-06-05"
+        }, 
+        {
+            "classification": "legislative period", 
+            "end_date": "2016-04-06", 
+            "id": "term/4", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "start_date": "2011-06-07"
+        }, 
+        {
+            "classification": "legislative period", 
+            "id": "term/5", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "start_date": "2016-05-06"
+        }
+    ], 
+    "memberships": [
+        {
+            "area_id": "e561e074ee444bbb62ae7c42e2e7299a398d87c3fa6524cea37d290fd9ffb68d", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "bbea950d36395098998b20f24d9d568998b11890272318bc9e3535c327e74de0", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "cb270f068240b381eb4ed5c1ca8ed1f4f56f428707c235a8378647c9da2efccf", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "cb270f068240b381eb4ed5c1ca8ed1f4f56f428707c235a8378647c9da2efccf", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "cb270f068240b381eb4ed5c1ca8ed1f4f56f428707c235a8378647c9da2efccf", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "3f26cb697036ad5428d58914e209dcd4f4c7e96203eb7c31bb2640d1dfd3b66f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "d226204576b7d391e553211f7530c7170ef8e88b8bb113a916d6050c184a5665", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "e3871c1b4debba9ea23ae56ca73eb42e7f312b86398a824d8556a0589c797704", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "f428863cf4377c56b35e45527215b700461d7e75632b4fc562a89c8b7dbbe7b1", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "e3871c1b4debba9ea23ae56ca73eb42e7f312b86398a824d8556a0589c797704", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "eefab83e94be9e2409d3b60ac6f8b93950636e0e0a4988d141546487d172030c", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "d832ecd3e216afd518ecca69555a126132636a2c457e6a5b3d34c52e3a06b04d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "eefab83e94be9e2409d3b60ac6f8b93950636e0e0a4988d141546487d172030c", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "d832ecd3e216afd518ecca69555a126132636a2c457e6a5b3d34c52e3a06b04d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "b870217ee89e1932a1e7e8c5af07c4f791f01f4248cd1356c51131a66ff42b1e", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "abf4835c0b13092ad21e219be4182caeab50205dfb65d648281d8acb13f5950f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "b870217ee89e1932a1e7e8c5af07c4f791f01f4248cd1356c51131a66ff42b1e", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "abf4835c0b13092ad21e219be4182caeab50205dfb65d648281d8acb13f5950f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "b870217ee89e1932a1e7e8c5af07c4f791f01f4248cd1356c51131a66ff42b1e", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "abf4835c0b13092ad21e219be4182caeab50205dfb65d648281d8acb13f5950f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "59e2e57bfdfb232a3f48e7de84947fd23258e5f07996b4d97ab271b6928dc1ed", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "33e91259aff60a05cec4ede25e4ff82b0a6725cb840c032e003d65143d68a095", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8548ba9bad410cecbe890ea03a136173f4750928da365a72196533ff1c94e7de", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "ef51cab1f7b63f80d7d378d6c0616c3286b427a228a2a919a30d15070063f946", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "7d036f9f8eb3f15ab6d1d55f6b4a39d67d43b039bb5398fb691bb366968fb1ca", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "ef51cab1f7b63f80d7d378d6c0616c3286b427a228a2a919a30d15070063f946", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "7d036f9f8eb3f15ab6d1d55f6b4a39d67d43b039bb5398fb691bb366968fb1ca", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "ef51cab1f7b63f80d7d378d6c0616c3286b427a228a2a919a30d15070063f946", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "7d036f9f8eb3f15ab6d1d55f6b4a39d67d43b039bb5398fb691bb366968fb1ca", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "767d1873b913a662c8465c8252e3e80400ae45cec6476930d935f019611ba6a3", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "00cda87c3fd4312d485e2c3dae2d9d6b2ba7465715319404d00705e09518e4bc", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "65937270018c6942e265863e0a0bb1721f4d3d8e9b284c246336ef8c933d1f5f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "00cda87c3fd4312d485e2c3dae2d9d6b2ba7465715319404d00705e09518e4bc", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "65937270018c6942e265863e0a0bb1721f4d3d8e9b284c246336ef8c933d1f5f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "00cda87c3fd4312d485e2c3dae2d9d6b2ba7465715319404d00705e09518e4bc", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "65937270018c6942e265863e0a0bb1721f4d3d8e9b284c246336ef8c933d1f5f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "44f55064ec67ab5138a62cbe69a2d26b2883c87559331cf9e4ce79616ef080a1", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "55634cf3a6cfd0ee51bb4f67044ddf53db3af63452d27d6fce5a7b46124a6323", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "c420d056cdb426a93ffb2d49548669b7457d5c69cd7615148d1fd82d03307760", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "c420d056cdb426a93ffb2d49548669b7457d5c69cd7615148d1fd82d03307760", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "835e526d9be08a55b9df39623a4fc6f31ae2ab2d1299c49fd83fd28e27ccf496", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "19da245616b026bc9c352cc9b87c3b0dd1179a8e1faeb91afbe991c526454804", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "835e526d9be08a55b9df39623a4fc6f31ae2ab2d1299c49fd83fd28e27ccf496", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "19da245616b026bc9c352cc9b87c3b0dd1179a8e1faeb91afbe991c526454804", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "f6663ca0ac671bb2a58df2a0709f253c354e5cd80237854eadc4f9ef5d218462", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "b0828d621af63b7241d41434338660db4453f09186c756dbcef55bb22b31f218", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "f6663ca0ac671bb2a58df2a0709f253c354e5cd80237854eadc4f9ef5d218462", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "b0828d621af63b7241d41434338660db4453f09186c756dbcef55bb22b31f218", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "f6663ca0ac671bb2a58df2a0709f253c354e5cd80237854eadc4f9ef5d218462", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "b0828d621af63b7241d41434338660db4453f09186c756dbcef55bb22b31f218", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "00efa3378eb18a1f7919300382b034225845bc53ae5385f531b28d3e99de81ac", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "6b3ce88b94299a71e5e77bd44bc1fcdf9366c55ff0dd9636d48dd93129dc30a2", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "5feb6d7d52be82a82bba4004a62db43a578bbcadfb10eeb0605a6663333dca45", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c3f4039c222878ad72bfbae73a2f07a40aa410dc9dcb53734faacc7cdc5d1765", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "6c753771cdd7180cf1c4a731de7e48a1d0fb3d498b9249c647684ae6e462f833", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c3f4039c222878ad72bfbae73a2f07a40aa410dc9dcb53734faacc7cdc5d1765", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "6c753771cdd7180cf1c4a731de7e48a1d0fb3d498b9249c647684ae6e462f833", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c3f4039c222878ad72bfbae73a2f07a40aa410dc9dcb53734faacc7cdc5d1765", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "6c753771cdd7180cf1c4a731de7e48a1d0fb3d498b9249c647684ae6e462f833", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "1415576beceec0b94fe7a8672ec75901b0c5e66c9afad9bd0fff9772235a966a", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "db47c0ae2959daaac5dcd00421aeb16d7b04de15ec85c735fda8fea1dc9817db", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "1415576beceec0b94fe7a8672ec75901b0c5e66c9afad9bd0fff9772235a966a", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "db47c0ae2959daaac5dcd00421aeb16d7b04de15ec85c735fda8fea1dc9817db", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "707462f9faa33231366cf1cc021be04c214f8c749cf12eca09b893999d1d22de", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "dffa3436ebefce5e80e009fdb3ecef58585973b25efe8575d47ad1abf2123a0b", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "319a2888bfeec11842d700ef168236f5a9c4909f8c4b3658854cff1dc618ff4f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9d87413dd4911c19a705dbaaf3df26f85f8187db5df22fe76ebec4579604596e", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "319a2888bfeec11842d700ef168236f5a9c4909f8c4b3658854cff1dc618ff4f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "dffa3436ebefce5e80e009fdb3ecef58585973b25efe8575d47ad1abf2123a0b", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "319a2888bfeec11842d700ef168236f5a9c4909f8c4b3658854cff1dc618ff4f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "f428863cf4377c56b35e45527215b700461d7e75632b4fc562a89c8b7dbbe7b1", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "edb388f7eb9864fb10c06af0676a84533c76ebf34302b5f2c967ceae97f849d3", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "eefab83e94be9e2409d3b60ac6f8b93950636e0e0a4988d141546487d172030c", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "d321bc38e363d613554349f59cc0d823ad9ef23acf1b128ba14a4646b67b7559", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "810457d8598e8a6a33772246d741b7c833e87549ab401976a9bae4b1caefe317", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "89ca7bd788b11e6293bba793e45ad02c0e849b21a0edf0066d1c282e83307c06", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "810457d8598e8a6a33772246d741b7c833e87549ab401976a9bae4b1caefe317", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "89ca7bd788b11e6293bba793e45ad02c0e849b21a0edf0066d1c282e83307c06", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8f00100b948b423c3bff2f60a8845335e30fe3f02335b678f86dc284af8d3309", 
+            "role": "member", 
+            "start_date": "2002-09-10"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "463c88ec9ef0a1987a26f90efa5855152e3767b1a9c961ce48a148ee33b66cb7", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "463c88ec9ef0a1987a26f90efa5855152e3767b1a9c961ce48a148ee33b66cb7", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "463c88ec9ef0a1987a26f90efa5855152e3767b1a9c961ce48a148ee33b66cb7", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "26e47627d0053e5be2ec307a066b7ce572ddc930d488ff050bde19f35db1facf", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "26e47627d0053e5be2ec307a066b7ce572ddc930d488ff050bde19f35db1facf", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "26e47627d0053e5be2ec307a066b7ce572ddc930d488ff050bde19f35db1facf", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "65d4d3f886d63759566599b24bcff893ab5925a189506f36569984ba69c59646", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "ccd7b59a79c302e9f34c0665e5d9b87734ec95ffd0f55cd20bc73a1962bdf472", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "09da2cce53b9c04c9f5b8ba337de43f920366ae74df02fab8567ad177ca7f38a", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "f056d9ce64531922a8b32273dd3f1ce64ad7e532cd0fdacbe22c58f2a9ceb16f", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "29746b81d96a714875c36ba1a0d0e2302052afe012e3ef0c514d5d0de961fcee", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "f056d9ce64531922a8b32273dd3f1ce64ad7e532cd0fdacbe22c58f2a9ceb16f", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "29746b81d96a714875c36ba1a0d0e2302052afe012e3ef0c514d5d0de961fcee", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "f056d9ce64531922a8b32273dd3f1ce64ad7e532cd0fdacbe22c58f2a9ceb16f", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "29746b81d96a714875c36ba1a0d0e2302052afe012e3ef0c514d5d0de961fcee", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "2330d820d57dc2e463c74a1d5f803f8b280c8b820afd610bcd7872493916cb5f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "2330d820d57dc2e463c74a1d5f803f8b280c8b820afd610bcd7872493916cb5f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "2330d820d57dc2e463c74a1d5f803f8b280c8b820afd610bcd7872493916cb5f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "1be827c27e488c1fc2eeb52115153187670708d7006519737c9718d59c49673b", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "11a7389c447aeda3afc9faebb23aac2a84c5951b6a7d46ffff58d6ac95bed9bb", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "1be827c27e488c1fc2eeb52115153187670708d7006519737c9718d59c49673b", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "11a7389c447aeda3afc9faebb23aac2a84c5951b6a7d46ffff58d6ac95bed9bb", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "1be827c27e488c1fc2eeb52115153187670708d7006519737c9718d59c49673b", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "11a7389c447aeda3afc9faebb23aac2a84c5951b6a7d46ffff58d6ac95bed9bb", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "ccd7b59a79c302e9f34c0665e5d9b87734ec95ffd0f55cd20bc73a1962bdf472", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "df8766bb97a54f060bc7f45156b6d27656acb10da91789cc814239360c78ffe5", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6c4cea81de1783ffac845911d47fc29bdb0327bcd04f961a7759066b91144347", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "df8766bb97a54f060bc7f45156b6d27656acb10da91789cc814239360c78ffe5", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "84b7d051ae889cfe8047339f67c7bebbbf6fd4b7df94d7ddb66fa1b7e76f01b2", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "213c228d00220178a41e805d53d9bc4f751f327a40fc83424ef20aa4c7d7cfca", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "b7775842c2f090bfe55d3988679332ccb44fedd74e9bac62e5b5fa18ebebffc7", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "b7775842c2f090bfe55d3988679332ccb44fedd74e9bac62e5b5fa18ebebffc7", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "a634b23b23cb3e0a908c6de02e597da4c7587cd30cde171cfcca619c314b6894", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "427a500a8fb5e368b8fce279f91c7a3f2c900d0ffd3b2d355df4020adbfe4f29", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "a634b23b23cb3e0a908c6de02e597da4c7587cd30cde171cfcca619c314b6894", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "427a500a8fb5e368b8fce279f91c7a3f2c900d0ffd3b2d355df4020adbfe4f29", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "a634b23b23cb3e0a908c6de02e597da4c7587cd30cde171cfcca619c314b6894", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "427a500a8fb5e368b8fce279f91c7a3f2c900d0ffd3b2d355df4020adbfe4f29", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "b99b44e6547b8b7927f447eeb3c128bf2e4f6792a55b6371531aa2c0d8b5ee77", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "00efa3378eb18a1f7919300382b034225845bc53ae5385f531b28d3e99de81ac", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "b99b44e6547b8b7927f447eeb3c128bf2e4f6792a55b6371531aa2c0d8b5ee77", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "00efa3378eb18a1f7919300382b034225845bc53ae5385f531b28d3e99de81ac", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "b99b44e6547b8b7927f447eeb3c128bf2e4f6792a55b6371531aa2c0d8b5ee77", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "96042ef1ef068980bd763b25d2ccc69301bab16e9ca00ae1adc3b1c388b7f1eb", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "3887f11ff41632f72ebc5bb0852a02af9bc9fe64d6a265e8122bbc28639b9b40", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "96042ef1ef068980bd763b25d2ccc69301bab16e9ca00ae1adc3b1c388b7f1eb", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "3887f11ff41632f72ebc5bb0852a02af9bc9fe64d6a265e8122bbc28639b9b40", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "96042ef1ef068980bd763b25d2ccc69301bab16e9ca00ae1adc3b1c388b7f1eb", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "3887f11ff41632f72ebc5bb0852a02af9bc9fe64d6a265e8122bbc28639b9b40", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "02479939fdf52f4e1784b21979f4f5f7407410531aa4c30a441b115bfd50766e", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "694a0b34eeaed247f0dfa20f9458778c4d0b48b17eccb9088fa61e37a0b10b3d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "02479939fdf52f4e1784b21979f4f5f7407410531aa4c30a441b115bfd50766e", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "694a0b34eeaed247f0dfa20f9458778c4d0b48b17eccb9088fa61e37a0b10b3d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "02479939fdf52f4e1784b21979f4f5f7407410531aa4c30a441b115bfd50766e", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "694a0b34eeaed247f0dfa20f9458778c4d0b48b17eccb9088fa61e37a0b10b3d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "44f55064ec67ab5138a62cbe69a2d26b2883c87559331cf9e4ce79616ef080a1", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "ceafdc3f07ddc022f52894bb86e4d7d05499eb721c4ffd82d0c3a613034d65a3", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "44f55064ec67ab5138a62cbe69a2d26b2883c87559331cf9e4ce79616ef080a1", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "ceafdc3f07ddc022f52894bb86e4d7d05499eb721c4ffd82d0c3a613034d65a3", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9376d713cdad7fc84c25a686d26a83dd2a9de16b9fd3bae22638fa62ce24dbb8", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "813940704635e5243eca6f846ab2b0d253527994f47f7dce4a1218132d6661e2", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9376d713cdad7fc84c25a686d26a83dd2a9de16b9fd3bae22638fa62ce24dbb8", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "813940704635e5243eca6f846ab2b0d253527994f47f7dce4a1218132d6661e2", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9376d713cdad7fc84c25a686d26a83dd2a9de16b9fd3bae22638fa62ce24dbb8", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "813940704635e5243eca6f846ab2b0d253527994f47f7dce4a1218132d6661e2", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "665f6b447b0abdc91e0c892b4bd0522e7fa215d01dd1ea90783206b8e4f172c5", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "ad7372952edbf19a052adc89e2b6e0b0f6bdc04605f69d4968571bb650316a49", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "665f6b447b0abdc91e0c892b4bd0522e7fa215d01dd1ea90783206b8e4f172c5", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "ad7372952edbf19a052adc89e2b6e0b0f6bdc04605f69d4968571bb650316a49", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "665f6b447b0abdc91e0c892b4bd0522e7fa215d01dd1ea90783206b8e4f172c5", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "ad7372952edbf19a052adc89e2b6e0b0f6bdc04605f69d4968571bb650316a49", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "3e9202a0fd0b6cbf28e0573039b723812ece0cd2c37faacacc9b708303b036c8", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "3e9202a0fd0b6cbf28e0573039b723812ece0cd2c37faacacc9b708303b036c8", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "e83b39ac9e3b5ef000963202039b34ab695434b75058b72fdc25c35b8702e97d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "e83b39ac9e3b5ef000963202039b34ab695434b75058b72fdc25c35b8702e97d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "e83b39ac9e3b5ef000963202039b34ab695434b75058b72fdc25c35b8702e97d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9677fd74dc007c3e62fa31e5c8704f94e9b5aa35e3414ab4e61473a1a694b857", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8da10211a9345b97f005a542f38dd30f43544daa3921aaea80b0dff81d2848e4", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9677fd74dc007c3e62fa31e5c8704f94e9b5aa35e3414ab4e61473a1a694b857", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8da10211a9345b97f005a542f38dd30f43544daa3921aaea80b0dff81d2848e4", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9677fd74dc007c3e62fa31e5c8704f94e9b5aa35e3414ab4e61473a1a694b857", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8da10211a9345b97f005a542f38dd30f43544daa3921aaea80b0dff81d2848e4", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6cf5ade7afdbc243a1ee31d1980b568bdef8e21015d8689a43e915d0ea5b5fac", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "9feb7becfddef49539b07b1bddc6fe02d2331565f7f0b4788cd52c1f931aadb9", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6cf5ade7afdbc243a1ee31d1980b568bdef8e21015d8689a43e915d0ea5b5fac", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "9feb7becfddef49539b07b1bddc6fe02d2331565f7f0b4788cd52c1f931aadb9", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9fd79a5758586b4f2a9259ea2efa81a5494fd18fddedcd8074361b4fae8dc31d", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "14e0acf870e70ebcbf3b9375bb1ad9f3b4c80c5b26e5f1e277d0a10ed8f5b80c", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9fd79a5758586b4f2a9259ea2efa81a5494fd18fddedcd8074361b4fae8dc31d", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "14e0acf870e70ebcbf3b9375bb1ad9f3b4c80c5b26e5f1e277d0a10ed8f5b80c", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9fd79a5758586b4f2a9259ea2efa81a5494fd18fddedcd8074361b4fae8dc31d", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "14e0acf870e70ebcbf3b9375bb1ad9f3b4c80c5b26e5f1e277d0a10ed8f5b80c", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "91927789d70d6303e1daf6da8b2fc5c4b051a2d66f90355136879b48fb75c3ab", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "91927789d70d6303e1daf6da8b2fc5c4b051a2d66f90355136879b48fb75c3ab", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "91927789d70d6303e1daf6da8b2fc5c4b051a2d66f90355136879b48fb75c3ab", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "d92e775033536aa14f53e4d6c72de2188e1d5cccc88d195e7e81368b313d6d61", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "01d141eec069f6a7261ce3bc4a9db6c5a1e94c0204ceda3d4e243edfffdc2ebd", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "d92e775033536aa14f53e4d6c72de2188e1d5cccc88d195e7e81368b313d6d61", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "01d141eec069f6a7261ce3bc4a9db6c5a1e94c0204ceda3d4e243edfffdc2ebd", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "d92e775033536aa14f53e4d6c72de2188e1d5cccc88d195e7e81368b313d6d61", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "01d141eec069f6a7261ce3bc4a9db6c5a1e94c0204ceda3d4e243edfffdc2ebd", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9907bce84308a6ef6fc624d3673ab99ee7993c7ab1319f3b9dcb7b24529dc6ee", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "c57a061879c8c9d90eeb3527d9c86f8288c525a666cce0604ff69e3c0fb3bc7a", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "c8e270fed0377d3ebb88cc28b6a5a4e0ad54d078fad3d930ae14db5327a6b6af", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9907bce84308a6ef6fc624d3673ab99ee7993c7ab1319f3b9dcb7b24529dc6ee", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "c8e270fed0377d3ebb88cc28b6a5a4e0ad54d078fad3d930ae14db5327a6b6af", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "fed00cbc5a3724e1733fc124cd6d8e508b0cfb7ac257382297fed6f8ca5cbbcb", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "fed00cbc5a3724e1733fc124cd6d8e508b0cfb7ac257382297fed6f8ca5cbbcb", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9bedb378e6b713f3f8bfab5f0b56f2786c6a250f7b2f60509ccb330c559406a9", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "fed00cbc5a3724e1733fc124cd6d8e508b0cfb7ac257382297fed6f8ca5cbbcb", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "c39d263ec33fbba73aa2220674f74dbc3ba4879efaaf1990d4d56878b5a7c3d1", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "64bef7521e64c3c75914c1726c417029fed6a5eb7f2c4f7569a1d283ad8fe0d7", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8ebf067a111c543b872b81cf4937dd94b53b983d9bc4728b9ec250f11aa608d3", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "64bef7521e64c3c75914c1726c417029fed6a5eb7f2c4f7569a1d283ad8fe0d7", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8ebf067a111c543b872b81cf4937dd94b53b983d9bc4728b9ec250f11aa608d3", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "64bef7521e64c3c75914c1726c417029fed6a5eb7f2c4f7569a1d283ad8fe0d7", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8ebf067a111c543b872b81cf4937dd94b53b983d9bc4728b9ec250f11aa608d3", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "b8c0c967eb1c7e95166a748dc3523b72cfcb3b8c1ac819abbf826a75a2cc7c1f", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "4762b8062a8b87d64f6f8f2ba1a5c105d51c8c9c3fe4f4a5bc3d235728bcc6ec", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "b8c0c967eb1c7e95166a748dc3523b72cfcb3b8c1ac819abbf826a75a2cc7c1f", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "4762b8062a8b87d64f6f8f2ba1a5c105d51c8c9c3fe4f4a5bc3d235728bcc6ec", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "b8c0c967eb1c7e95166a748dc3523b72cfcb3b8c1ac819abbf826a75a2cc7c1f", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "4762b8062a8b87d64f6f8f2ba1a5c105d51c8c9c3fe4f4a5bc3d235728bcc6ec", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "7d2851293ea4467c00b7a87d43a04b87a647b785141abf5b4d0d29fea149d3fc", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "95357dcf4fec20ca3be6dd92fce5cb2d055609f39fc60705ace58b9116028b4e", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "95357dcf4fec20ca3be6dd92fce5cb2d055609f39fc60705ace58b9116028b4e", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "84b7d051ae889cfe8047339f67c7bebbbf6fd4b7df94d7ddb66fa1b7e76f01b2", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "b701a645627466027cfaf0ed26ac8756416ef3d5f64cee08ee54441327981f64", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "84b7d051ae889cfe8047339f67c7bebbbf6fd4b7df94d7ddb66fa1b7e76f01b2", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "b701a645627466027cfaf0ed26ac8756416ef3d5f64cee08ee54441327981f64", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9907bce84308a6ef6fc624d3673ab99ee7993c7ab1319f3b9dcb7b24529dc6ee", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "c8ba8f87d41ecc3cd650c20d9eeec5b8c5653e9e7cd3bbfd31139486b25cc767", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8d0002cd259f1e61b2699ad21e99af08fe29459b7a2f698fc4783166714498d2", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "61b19165de09dfe473fe864a2cb07cd932a0358c9cb2e9ed41df78635d7cbf3c", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "a92185e80d1696e16ee6a15f858f87e0210612030934000338b50e89f53eaebd", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "61b19165de09dfe473fe864a2cb07cd932a0358c9cb2e9ed41df78635d7cbf3c", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "a92185e80d1696e16ee6a15f858f87e0210612030934000338b50e89f53eaebd", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "61b19165de09dfe473fe864a2cb07cd932a0358c9cb2e9ed41df78635d7cbf3c", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "a92185e80d1696e16ee6a15f858f87e0210612030934000338b50e89f53eaebd", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "1eddd1078140f8e2af60d58e456dad81c65805683e7842f890a05a57bb8a642a", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "d3ad07244f62c6cec998642ca9a3d86c4ce0e648653d188d272bb67f060969d1", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "1eddd1078140f8e2af60d58e456dad81c65805683e7842f890a05a57bb8a642a", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "d3ad07244f62c6cec998642ca9a3d86c4ce0e648653d188d272bb67f060969d1", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "1eddd1078140f8e2af60d58e456dad81c65805683e7842f890a05a57bb8a642a", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "d3ad07244f62c6cec998642ca9a3d86c4ce0e648653d188d272bb67f060969d1", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "c692977d8c806362b4e86002fac1d4b7c7e3891a1f3dae64c7ff36720409bd6e", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "c692977d8c806362b4e86002fac1d4b7c7e3891a1f3dae64c7ff36720409bd6e", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "4c07fe104bb9dd0fe6fed3819ad42a34bd9b8f7b23e8fb96b12eb29bbe88e3cb", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "320eb0b778052f7b27a4e0350c541439eebf4172ac6db0bc3a0941379a904d0d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "4c07fe104bb9dd0fe6fed3819ad42a34bd9b8f7b23e8fb96b12eb29bbe88e3cb", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "320eb0b778052f7b27a4e0350c541439eebf4172ac6db0bc3a0941379a904d0d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "4c07fe104bb9dd0fe6fed3819ad42a34bd9b8f7b23e8fb96b12eb29bbe88e3cb", 
+            "end_date": "2010-12-10", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "320eb0b778052f7b27a4e0350c541439eebf4172ac6db0bc3a0941379a904d0d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "4c07fe104bb9dd0fe6fed3819ad42a34bd9b8f7b23e8fb96b12eb29bbe88e3cb", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "2064c4967daeb4e72f02e0fadf24b7eb2399cb82641f84c1a928048747d60e3c", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "320eb0b778052f7b27a4e0350c541439eebf4172ac6db0bc3a0941379a904d0d", 
+            "role": "member", 
+            "start_date": "2010-12-10"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "5e38d5854591647df6957bad75a3f36edd258799f755f9b12e6af49a88b56d11", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "5e38d5854591647df6957bad75a3f36edd258799f755f9b12e6af49a88b56d11", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "end_date": "2010-07-01", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "5e38d5854591647df6957bad75a3f36edd258799f755f9b12e6af49a88b56d11", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "end_date": "2009-12-08", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "e943988529b1eddeb646fe91fd0e2c33004125912d662c4d9a9efa2c00b8d8c4", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "e943988529b1eddeb646fe91fd0e2c33004125912d662c4d9a9efa2c00b8d8c4", 
+            "role": "member", 
+            "start_date": "2009-12-08"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "19674d64da524c57033fa857f8cdbbfbae2c7a9fc2a32ffd01358c45ec1e5896", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "9e99dc16b332e5d0d33ed1729163e28d55c3f5c4e3e48636d651b438fdd23c87", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "9e99dc16b332e5d0d33ed1729163e28d55c3f5c4e3e48636d651b438fdd23c87", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "c2e8cca74634ea8dcab61012b55c5cfdc07670964c2f70155207601ef3109e12", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "9e99dc16b332e5d0d33ed1729163e28d55c3f5c4e3e48636d651b438fdd23c87", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "810457d8598e8a6a33772246d741b7c833e87549ab401976a9bae4b1caefe317", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "83dc4f12317c10b0b0be1f904dd2af969d96f1fc83dcc772b1f047ffe296788c", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "498de787bfd90da3b985dd82f5849cd3d11a8ac92aca37781f9bd4f13e4bc02d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "498de787bfd90da3b985dd82f5849cd3d11a8ac92aca37781f9bd4f13e4bc02d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "192bcf7510cb7a92e0eed6dbeef51776f3ef81c5cc46ddd52bb4379703bb2497", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "6cbf0605ed3d9f53d3f06ccfc0bd398ebb83446cff46d4333da36e79921740e8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "d41e3bd78478a213995620683a1edbc0f6c76c44d7f602c5a6bbb950bbaf2b25", 
+            "role": "member", 
+            "start_date": "2006-06-29"
+        }, 
+        {
+            "area_id": "2b4f0d16adbca41d8b4ba8e9e3b2f5e3d9cf431608eaf7a7e9c4a498ba55d0b2", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "eb09feb36df269555b09033ec5078d6fa11bd89857d16a86759a50996520a45d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "6e30a22ca999811ec0f5b256bd0ec6fd9e00a09f49ba5b38d8c78c9303bb9dad", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "2ba348dceef8968db47f3c2de6ddf733db4381093d22fe67dc6d987aa72d063b", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "98385039c7d43839cf30770b70260acd96ad0d5b6edd145f55c4ee06d2a67eaa", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "98385039c7d43839cf30770b70260acd96ad0d5b6edd145f55c4ee06d2a67eaa", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "60a1f2abd0e585a015c9c4049e2b993b4181c54b2f8680be5e80d5fec395d384", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "98385039c7d43839cf30770b70260acd96ad0d5b6edd145f55c4ee06d2a67eaa", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "192bcf7510cb7a92e0eed6dbeef51776f3ef81c5cc46ddd52bb4379703bb2497", 
+            "end_date": "2005-05-05", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "28987bab0792ae4adb26f7ca51403840cb7103df5b4a8737b3fb976120aecb0d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "192bcf7510cb7a92e0eed6dbeef51776f3ef81c5cc46ddd52bb4379703bb2497", 
+            "end_date": "2006-04-25", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "6cbf0605ed3d9f53d3f06ccfc0bd398ebb83446cff46d4333da36e79921740e8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "28987bab0792ae4adb26f7ca51403840cb7103df5b4a8737b3fb976120aecb0d", 
+            "role": "member", 
+            "start_date": "2005-05-05"
+        }, 
+        {
+            "area_id": "192bcf7510cb7a92e0eed6dbeef51776f3ef81c5cc46ddd52bb4379703bb2497", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "28987bab0792ae4adb26f7ca51403840cb7103df5b4a8737b3fb976120aecb0d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "1d1c7c292651b4c8605b0c3d6f50f5a616be26196527cf975224fe4daa94a38e", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "2014506206ba4a8a7e3aeef0c80ef5b8f1a4ff3f4429c412d94ac8f918aa387f", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "468d3cbb3b8eeaeee74816dc60d58e8dcc56795b012d1a7bd05415333a74d9fd", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "1858452e8b684e25d9a368bcf8fb4dfe896572d0a1f1a59219c41ac7df829a5e", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "468d3cbb3b8eeaeee74816dc60d58e8dcc56795b012d1a7bd05415333a74d9fd", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "1858452e8b684e25d9a368bcf8fb4dfe896572d0a1f1a59219c41ac7df829a5e", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "468d3cbb3b8eeaeee74816dc60d58e8dcc56795b012d1a7bd05415333a74d9fd", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "1858452e8b684e25d9a368bcf8fb4dfe896572d0a1f1a59219c41ac7df829a5e", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2b4f0d16adbca41d8b4ba8e9e3b2f5e3d9cf431608eaf7a7e9c4a498ba55d0b2", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "1858452e8b684e25d9a368bcf8fb4dfe896572d0a1f1a59219c41ac7df829a5e", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "7b0b21adc0e8bd446b5b461814719f6e66fb8ea6a517a9d2ce9f42199eec9bd2", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "7094f6461150934a979518c16ec9cfa630a3ddc85e1c978b5be93734ec99e836", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "7b0b21adc0e8bd446b5b461814719f6e66fb8ea6a517a9d2ce9f42199eec9bd2", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "7094f6461150934a979518c16ec9cfa630a3ddc85e1c978b5be93734ec99e836", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "7b0b21adc0e8bd446b5b461814719f6e66fb8ea6a517a9d2ce9f42199eec9bd2", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "7094f6461150934a979518c16ec9cfa630a3ddc85e1c978b5be93734ec99e836", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "end_date": "2002-02-08", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "62d9677bb0e821a5ec7df0ee1687cd9be9f664305d975f7653febaa1b9733155", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "22c66c2b9b659bffa02dd9c629e1dd488b5418523964b603eeb23346983983d6", 
+            "end_date": "2002-09-10", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "cbb5cc211886767191bc93ea8dc133d230971ce7c5304bc7529ace0994dee5fd", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "62d9677bb0e821a5ec7df0ee1687cd9be9f664305d975f7653febaa1b9733155", 
+            "role": "member", 
+            "start_date": "2002-02-08"
+        }, 
+        {
+            "area_id": "6cf5ade7afdbc243a1ee31d1980b568bdef8e21015d8689a43e915d0ea5b5fac", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "fb6c3833c89cdfe33166fe9bf1752e3cc2abbec29ef398f56939a7c1bb7483b4", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "50885891dac85f39f704950b3b38493a11acbc44c7385f00b1829d59417a2f05", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8e2dad0d57e048b0cbed8d126895a5d20373eb496ca6320c3a66867ce3f773e6", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "50885891dac85f39f704950b3b38493a11acbc44c7385f00b1829d59417a2f05", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8e2dad0d57e048b0cbed8d126895a5d20373eb496ca6320c3a66867ce3f773e6", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "50885891dac85f39f704950b3b38493a11acbc44c7385f00b1829d59417a2f05", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "8e2dad0d57e048b0cbed8d126895a5d20373eb496ca6320c3a66867ce3f773e6", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "e561e074ee444bbb62ae7c42e2e7299a398d87c3fa6524cea37d290fd9ffb68d", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "3fb780403c05192618e5dbd55272344edaf7416282d34f416c03f7c513f7ce54", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "e561e074ee444bbb62ae7c42e2e7299a398d87c3fa6524cea37d290fd9ffb68d", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "3fb780403c05192618e5dbd55272344edaf7416282d34f416c03f7c513f7ce54", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9bedb378e6b713f3f8bfab5f0b56f2786c6a250f7b2f60509ccb330c559406a9", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "2b479f151e80ee42aca94b87c83259882276fcc021b945019976d181a02d6a23", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "9bedb378e6b713f3f8bfab5f0b56f2786c6a250f7b2f60509ccb330c559406a9", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "2b479f151e80ee42aca94b87c83259882276fcc021b945019976d181a02d6a23", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2b4f0d16adbca41d8b4ba8e9e3b2f5e3d9cf431608eaf7a7e9c4a498ba55d0b2", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "5e030f518f20abd7ab30060ff675f9c2ccd6907fc54e56501c40c179a428d820", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "835e526d9be08a55b9df39623a4fc6f31ae2ab2d1299c49fd83fd28e27ccf496", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "27d3537a4a94fe881b4631cb6a5d8782e872f21adff7c18c3ead072713c678c1", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "192bcf7510cb7a92e0eed6dbeef51776f3ef81c5cc46ddd52bb4379703bb2497", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "6cbf0605ed3d9f53d3f06ccfc0bd398ebb83446cff46d4333da36e79921740e8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "70006536654303983674b26db7183d654e45eefa78571547227794620aa71560", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "b5df01b617d13b7ded354fc08b71002c581997b3cd5bee912efcc732175c51b9", 
+            "end_date": "2001-07-17", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "33fa11aa7973d2eef0aa7c04be78b8581a2aba1a7b83db7e0b9725561c5f8133", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "b5df01b617d13b7ded354fc08b71002c581997b3cd5bee912efcc732175c51b9", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "f9b6fc6673421b42b57a997764d7b2c93ba722955c65e29ce11b412036c3271d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "b5df01b617d13b7ded354fc08b71002c581997b3cd5bee912efcc732175c51b9", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "f9b6fc6673421b42b57a997764d7b2c93ba722955c65e29ce11b412036c3271d", 
+            "role": "member", 
+            "start_date": "2001-09-27"
+        }, 
+        {
+            "area_id": "b5df01b617d13b7ded354fc08b71002c581997b3cd5bee912efcc732175c51b9", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "f9b6fc6673421b42b57a997764d7b2c93ba722955c65e29ce11b412036c3271d", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "1a3064462c34ea0a4a72f76dbf12c3c9cc092f335dd4bbde53c895bfc7841b4c", 
+            "role": "member", 
+            "start_date": "2010-07-01"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/2", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "fe9f7d3e82998fc126b3dd68eb681488a28ba12d294d1c7637099e2eaba29d0c", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/1", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "fe9f7d3e82998fc126b3dd68eb681488a28ba12d294d1c7637099e2eaba29d0c", 
+            "role": "member"
+        }, 
+        {
+            "area_id": "2cf39f039f8454be871ce32fcc5fcda644a2b033bd8465f6ba3aa157a6ee606f", 
+            "legislative_period_id": "term/3", 
+            "on_behalf_of_id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "organization_id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "person_id": "fe9f7d3e82998fc126b3dd68eb681488a28ba12d294d1c7637099e2eaba29d0c", 
+            "role": "member"
+        }
+    ], 
+    "organizations": [
+        {
+            "classification": "legislature", 
+            "id": "f3c7acbdd5d21410ba19b1232156dde91248f5da323a883f5eeaad8375414165", 
+            "name": "National Assembly for Wales"
+        }, 
+        {
+            "classification": "party", 
+            "id": "6cbf0605ed3d9f53d3f06ccfc0bd398ebb83446cff46d4333da36e79921740e8", 
+            "name": "Independent"
+        }, 
+        {
+            "classification": "party", 
+            "id": "2064c4967daeb4e72f02e0fadf24b7eb2399cb82641f84c1a928048747d60e3c", 
+            "name": "Independent Liberal Democrat"
+        }, 
+        {
+            "classification": "party", 
+            "id": "cbb5cc211886767191bc93ea8dc133d230971ce7c5304bc7529ace0994dee5fd", 
+            "name": "Independent Conservative"
+        }, 
+        {
+            "classification": "party", 
+            "id": "98b07814feb8fa29742a38a21de1d34b176f42b63b9c736eaf25753264206f9b", 
+            "name": "Welsh Conservative Party"
+        }, 
+        {
+            "classification": "party", 
+            "id": "405d23265a4443614d8ac785a38e46f15aa3c0f79f6421b181179d233678c7f8", 
+            "name": "Welsh Liberal Democrats"
+        }, 
+        {
+            "classification": "party", 
+            "id": "9e3827bd74e3e29754bc8d9bd1d8ea1b67ffa43d070f9d5854d0bf62569399cb", 
+            "name": "Welsh Labour"
+        }, 
+        {
+            "classification": "party", 
+            "id": "8af15096b983daa1372eb42a8b3c06f1ff274d3fe0325ddc4a4c135014611889", 
+            "name": "Plaid Cymru"
+        }, 
+        {
+            "classification": "party", 
+            "id": "c57a061879c8c9d90eeb3527d9c86f8288c525a666cce0604ff69e3c0fb3bc7a", 
+            "name": "John Marek Independent Party"
+        }
+    ], 
+    "persons": [
+        {
+            "gender": "female", 
+            "id": "bbea950d36395098998b20f24d9d568998b11890272318bc9e3535c327e74de0", 
+            "name": "Alison Halford", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "cb270f068240b381eb4ed5c1ca8ed1f4f56f428707c235a8378647c9da2efccf", 
+            "name": "Alun Cairns", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "3f26cb697036ad5428d58914e209dcd4f4c7e96203eb7c31bb2640d1dfd3b66f", 
+            "name": "Alun Davies", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "e3871c1b4debba9ea23ae56ca73eb42e7f312b86398a824d8556a0589c797704", 
+            "name": "Alun Ffred Jones", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Alun Jones", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Alun Jones", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "d832ecd3e216afd518ecca69555a126132636a2c457e6a5b3d34c52e3a06b04d", 
+            "name": "Alun Pugh", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "abf4835c0b13092ad21e219be4182caeab50205dfb65d648281d8acb13f5950f", 
+            "name": "Andrew Davies", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "59e2e57bfdfb232a3f48e7de84947fd23258e5f07996b4d97ab271b6928dc1ed", 
+            "name": "Andrew R. T. Davies", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Andrew RT Davies", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "8548ba9bad410cecbe890ea03a136173f4750928da365a72196533ff1c94e7de", 
+            "name": "Angela Burns", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "7d036f9f8eb3f15ab6d1d55f6b4a39d67d43b039bb5398fb691bb366968fb1ca", 
+            "name": "Ann Jones", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "767d1873b913a662c8465c8252e3e80400ae45cec6476930d935f019611ba6a3", 
+            "name": "Bethan Jenkins", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "65937270018c6942e265863e0a0bb1721f4d3d8e9b284c246336ef8c933d1f5f", 
+            "name": "Brian Gibbons", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "55634cf3a6cfd0ee51bb4f67044ddf53db3af63452d27d6fce5a7b46124a6323", 
+            "name": "Brian Hancock", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "c420d056cdb426a93ffb2d49548669b7457d5c69cd7615148d1fd82d03307760", 
+            "name": "Brynle Williams", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Brynie Williams", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Brynie Williams", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "19da245616b026bc9c352cc9b87c3b0dd1179a8e1faeb91afbe991c526454804", 
+            "name": "Carl Sargeant", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "b0828d621af63b7241d41434338660db4453f09186c756dbcef55bb22b31f218", 
+            "name": "Carwyn Jones", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Carwyn Howell Jones", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Carwyn Howell Jones", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Carwyn Howell Jones", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "6b3ce88b94299a71e5e77bd44bc1fcdf9366c55ff0dd9636d48dd93129dc30a2", 
+            "name": "Catherine Thomas", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "5feb6d7d52be82a82bba4004a62db43a578bbcadfb10eeb0605a6663333dca45", 
+            "name": "Chris Franks", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Christopher Franks", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "6c753771cdd7180cf1c4a731de7e48a1d0fb3d498b9249c647684ae6e462f833", 
+            "name": "Christine Chapman", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "db47c0ae2959daaac5dcd00421aeb16d7b04de15ec85c735fda8fea1dc9817db", 
+            "name": "Christine Gwyther", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "707462f9faa33231366cf1cc021be04c214f8c749cf12eca09b893999d1d22de", 
+            "name": "Cynog Dafis", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "319a2888bfeec11842d700ef168236f5a9c4909f8c4b3658854cff1dc618ff4f", 
+            "name": "Dafydd Elis-Thomas", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Lord Dafydd Elis-Thomas", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "edb388f7eb9864fb10c06af0676a84533c76ebf34302b5f2c967ceae97f849d3", 
+            "name": "Dafydd Wigley", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "d321bc38e363d613554349f59cc0d823ad9ef23acf1b128ba14a4646b67b7559", 
+            "name": "Darren Millar", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "89ca7bd788b11e6293bba793e45ad02c0e849b21a0edf0066d1c282e83307c06", 
+            "name": "David Davies", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "8f00100b948b423c3bff2f60a8845335e30fe3f02335b678f86dc284af8d3309", 
+            "name": "David Jones", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "463c88ec9ef0a1987a26f90efa5855152e3767b1a9c961ce48a148ee33b66cb7", 
+            "name": "David Lloyd", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "David Rhys Lloyd", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "26e47627d0053e5be2ec307a066b7ce572ddc930d488ff050bde19f35db1facf", 
+            "name": "David Melding", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "65d4d3f886d63759566599b24bcff893ab5925a189506f36569984ba69c59646", 
+            "name": "Delyth Evans", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "09da2cce53b9c04c9f5b8ba337de43f920366ae74df02fab8567ad177ca7f38a", 
+            "name": "Denise Idris Jones", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "29746b81d96a714875c36ba1a0d0e2302052afe012e3ef0c514d5d0de961fcee", 
+            "name": "Edwina Hart", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "2330d820d57dc2e463c74a1d5f803f8b280c8b820afd610bcd7872493916cb5f", 
+            "name": "Eleanor Burnham", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "11a7389c447aeda3afc9faebb23aac2a84c5951b6a7d46ffff58d6ac95bed9bb", 
+            "name": "Elin Jones", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "df8766bb97a54f060bc7f45156b6d27656acb10da91789cc814239360c78ffe5", 
+            "name": "Gareth Jones", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "213c228d00220178a41e805d53d9bc4f751f327a40fc83424ef20aa4c7d7cfca", 
+            "name": "Geraint Davies", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "b7775842c2f090bfe55d3988679332ccb44fedd74e9bac62e5b5fa18ebebffc7", 
+            "name": "Glyn Davies", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "427a500a8fb5e368b8fce279f91c7a3f2c900d0ffd3b2d355df4020adbfe4f29", 
+            "name": "Gwenda Thomas", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "b99b44e6547b8b7927f447eeb3c128bf2e4f6792a55b6371531aa2c0d8b5ee77", 
+            "name": "Helen Mary Jones", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "3887f11ff41632f72ebc5bb0852a02af9bc9fe64d6a265e8122bbc28639b9b40", 
+            "name": "Huw Lewis", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "694a0b34eeaed247f0dfa20f9458778c4d0b48b17eccb9088fa61e37a0b10b3d", 
+            "name": "Ieuan Wyn Jones", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "ceafdc3f07ddc022f52894bb86e4d7d05499eb721c4ffd82d0c3a613034d65a3", 
+            "name": "Irene James", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "813940704635e5243eca6f846ab2b0d253527994f47f7dce4a1218132d6661e2", 
+            "name": "Jane Davidson", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "ad7372952edbf19a052adc89e2b6e0b0f6bdc04605f69d4968571bb650316a49", 
+            "name": "Jane Hutt", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "3e9202a0fd0b6cbf28e0573039b723812ece0cd2c37faacacc9b708303b036c8", 
+            "name": "Janet Davies", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "e83b39ac9e3b5ef000963202039b34ab695434b75058b72fdc25c35b8702e97d", 
+            "name": "Janet Ryder", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "8da10211a9345b97f005a542f38dd30f43544daa3921aaea80b0dff81d2848e4", 
+            "name": "Janice Gregory", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "9feb7becfddef49539b07b1bddc6fe02d2331565f7f0b4788cd52c1f931aadb9", 
+            "name": "Jeffrey Cuthbert", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Jeff Cuthbert", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "14e0acf870e70ebcbf3b9375bb1ad9f3b4c80c5b26e5f1e277d0a10ed8f5b80c", 
+            "name": "Jenny Randerson", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "91927789d70d6303e1daf6da8b2fc5c4b051a2d66f90355136879b48fb75c3ab", 
+            "name": "Jocelyn Davies", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "01d141eec069f6a7261ce3bc4a9db6c5a1e94c0204ceda3d4e243edfffdc2ebd", 
+            "name": "John Griffiths", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "c8e270fed0377d3ebb88cc28b6a5a4e0ad54d078fad3d930ae14db5327a6b6af", 
+            "name": "John Marek", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "fed00cbc5a3724e1733fc124cd6d8e508b0cfb7ac257382297fed6f8ca5cbbcb", 
+            "name": "Jonathan Morgan", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "c39d263ec33fbba73aa2220674f74dbc3ba4879efaaf1990d4d56878b5a7c3d1", 
+            "name": "Joyce Watson", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "8ebf067a111c543b872b81cf4937dd94b53b983d9bc4728b9ec250f11aa608d3", 
+            "name": "Karen Sinclair", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "4762b8062a8b87d64f6f8f2ba1a5c105d51c8c9c3fe4f4a5bc3d235728bcc6ec", 
+            "name": "Kirsty Williams", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "7d2851293ea4467c00b7a87d43a04b87a647b785141abf5b4d0d29fea149d3fc", 
+            "name": "Laura Anne Jones", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Laura Jones", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "95357dcf4fec20ca3be6dd92fce5cb2d055609f39fc60705ace58b9116028b4e", 
+            "name": "Leanne Wood", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "b701a645627466027cfaf0ed26ac8756416ef3d5f64cee08ee54441327981f64", 
+            "name": "Leighton Andrews", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "c8ba8f87d41ecc3cd650c20d9eeec5b8c5653e9e7cd3bbfd31139486b25cc767", 
+            "name": "Lesley Griffiths", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "8d0002cd259f1e61b2699ad21e99af08fe29459b7a2f698fc4783166714498d2", 
+            "name": "Lisa Francis", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "a92185e80d1696e16ee6a15f858f87e0210612030934000338b50e89f53eaebd", 
+            "name": "Lorraine Barrett", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "d3ad07244f62c6cec998642ca9a3d86c4ce0e648653d188d272bb67f060969d1", 
+            "name": "Lynne Neagle", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "c692977d8c806362b4e86002fac1d4b7c7e3891a1f3dae64c7ff36720409bd6e", 
+            "name": "Mark Isherwood", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "320eb0b778052f7b27a4e0350c541439eebf4172ac6db0bc3a0941379a904d0d", 
+            "name": "Mick Bates", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/Mick_Bates_(politician)"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "5e38d5854591647df6957bad75a3f36edd258799f755f9b12e6af49a88b56d11", 
+            "name": "Mike German, Baron German", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Michael German", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Michael German", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Michael German", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "e943988529b1eddeb646fe91fd0e2c33004125912d662c4d9a9efa2c00b8d8c4", 
+            "name": "Mohammad Asghar", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/Mohammad_Asghar"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "19674d64da524c57033fa857f8cdbbfbae2c7a9fc2a32ffd01358c45ec1e5896", 
+            "name": "Nerys Evans", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "9e99dc16b332e5d0d33ed1729163e28d55c3f5c4e3e48636d651b438fdd23c87", 
+            "name": "Nick Bourne", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Nicholas Bourne", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Nicholas Bourne", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Nicholas Bourne", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "83dc4f12317c10b0b0be1f904dd2af969d96f1fc83dcc772b1f047ffe296788c", 
+            "name": "Nick Ramsay", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "498de787bfd90da3b985dd82f5849cd3d11a8ac92aca37781f9bd4f13e4bc02d", 
+            "name": "Owen John Thomas", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "d41e3bd78478a213995620683a1edbc0f6c76c44d7f602c5a6bbb950bbaf2b25", 
+            "name": "Patricia Law", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "eb09feb36df269555b09033ec5078d6fa11bd89857d16a86759a50996520a45d", 
+            "name": "Paul Davies", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "2ba348dceef8968db47f3c2de6ddf733db4381093d22fe67dc6d987aa72d063b", 
+            "name": "Pauline Jarman", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "98385039c7d43839cf30770b70260acd96ad0d5b6edd145f55c4ee06d2a67eaa", 
+            "name": "Peter Black", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "28987bab0792ae4adb26f7ca51403840cb7103df5b4a8737b3fb976120aecb0d", 
+            "name": "Peter Law", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps03.htm, http://www.independent.co.uk/news/obituaries/peter-law-6102699.html", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "1d1c7c292651b4c8605b0c3d6f50f5a616be26196527cf975224fe4daa94a38e", 
+            "name": "Peter Rogers", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "2014506206ba4a8a7e3aeef0c80ef5b8f1a4ff3f4429c412d94ac8f918aa387f", 
+            "name": "Phil Williams", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "1858452e8b684e25d9a368bcf8fb4dfe896572d0a1f1a59219c41ac7df829a5e", 
+            "name": "Rhodri Glyn Thomas", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Rhodri Thomas", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "7094f6461150934a979518c16ec9cfa630a3ddc85e1c978b5be93734ec99e836", 
+            "name": "Rhodri Morgan", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "62d9677bb0e821a5ec7df0ee1687cd9be9f664305d975f7653febaa1b9733155", 
+            "name": "Rod Richards", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "fb6c3833c89cdfe33166fe9bf1752e3cc2abbec29ef398f56939a7c1bb7483b4", 
+            "name": "Ron Davies", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "8e2dad0d57e048b0cbed8d126895a5d20373eb496ca6320c3a66867ce3f773e6", 
+            "name": "Rosemary Butler", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "3fb780403c05192618e5dbd55272344edaf7416282d34f416c03f7c513f7ce54", 
+            "name": "Sandy Mewies", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Sandra Mewies", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Sandra Mewies", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "2b479f151e80ee42aca94b87c83259882276fcc021b945019976d181a02d6a23", 
+            "name": "Sue Essex", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "5e030f518f20abd7ab30060ff675f9c2ccd6907fc54e56501c40c179a428d820", 
+            "name": "Tamsin Dunwoody", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Tamsin Dunwoody-Kneafsey", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Moyra Tamsin Dunwoody", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Tamsin Dunwoody", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Moyra Dunwoody-Kneafsey", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps03.htm"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "27d3537a4a94fe881b4631cb6a5d8782e872f21adff7c18c3ead072713c678c1", 
+            "name": "Tom Middlehurst", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "70006536654303983674b26db7183d654e45eefa78571547227794620aa71560", 
+            "name": "Trish Law", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "33fa11aa7973d2eef0aa7c04be78b8581a2aba1a7b83db7e0b9725561c5f8133", 
+            "name": "Val Feld", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Val Field", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "https://en.wikipedia.org/wiki/List_of_Welsh_Assembly_by-elections"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "f9b6fc6673421b42b57a997764d7b2c93ba722955c65e29ce11b412036c3271d", 
+            "name": "Val Lloyd", 
+            "other_names": [
+                {
+                    "lang": "en", 
+                    "name": "Valerie Lloyd", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Valerie Lloyd", 
+                    "note": "altname"
+                }, 
+                {
+                    "lang": "en", 
+                    "name": "Valerie Lloyd", 
+                    "note": "altname"
+                }
+            ], 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }, 
+        {
+            "gender": "female", 
+            "id": "1a3064462c34ea0a4a72f76dbf12c3c9cc092f335dd4bbde53c895bfc7841b4c", 
+            "name": "Veronica German", 
+            "sources": [
+                "https://en.wikipedia.org/wiki/Veronica_German"
+            ]
+        }, 
+        {
+            "gender": "male", 
+            "id": "fe9f7d3e82998fc126b3dd68eb681488a28ba12d294d1c7637099e2eaba29d0c", 
+            "name": "William Graham", 
+            "sources": [
+                "http://www.politicsresources.net/area/uk/wassmps.htm", 
+                "http://www.politicsresources.net/area/uk/wassmps03.htm", 
+                "https://en.wikipedia.org/wiki/National_Assembly_for_Wales_election,_2007"
+            ]
+        }
+    ], 
+    "posts": []
+}
